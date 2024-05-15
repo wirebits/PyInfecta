@@ -1,8 +1,10 @@
 # PyInfecta
 A python script which replicate the code in the existing .py files.
 
-# Warning
-Don't use this script illegally.
+# Warning ⚠
+Don't use this script illegally.<br>
+It can change the python file scripts without owner consent.<br>
+It can change the main python file scripts so that it corrupts the python language source codes and its environment.
 
 # Key Features
 - It copy the code in the *.py* files.
